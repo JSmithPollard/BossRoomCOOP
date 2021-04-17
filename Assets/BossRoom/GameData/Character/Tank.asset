@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1383fc6b0805339469d44c02534fbb30, type: 3}
+  m_Name: Tank
+  m_EditorClassIdentifier: 
+  CharacterType: 0
+  Skill1: 1
+  Skill2: 15
+  Skill3: 0
+  BaseHP: {fileID: 11400000, guid: d94f03bb5cb7163429507898b11e7994, type: 2}
+  BaseMana: 20
+  IsNpc: 0
+  DetectRange: 0
+  DisplayedName: TANK
+  ClassBannerLit: {fileID: -720397744737086521, guid: 1b8d595a2eaea6a41b33c3eb5d3d6a44, type: 3}
+  ClassBannerUnlit: {fileID: -1584123350094214546, guid: 1b8d595a2eaea6a41b33c3eb5d3d6a44, type: 3}

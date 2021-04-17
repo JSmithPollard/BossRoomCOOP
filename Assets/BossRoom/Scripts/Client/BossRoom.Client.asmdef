@@ -1,0 +1,20 @@
+{
+    "name": "BossRoom.Client",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Multiplayer.MLAPI.Runtime",
+        "BossRoom.Shared",
+        "Cinemachine",
+        "Photon Realtime MLAPI Transport",
+        "LiteNetLib MLAPI Transport"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
